@@ -29,11 +29,9 @@ I'm a Python Enthusiast🐍, a public speaker🎙 and a youtuber🎬. Apart from
 
 - 👯 I’m looking to collaborate on **Development Based Projects**
 
-- 📝 I write articles on **[Medium](https://kishan-rai99693.medium.com)**
-
 - 💬 Ask me about **anything you want.**
 
-- 📫 How to reach me **kishan.rai99693@gmail.com**
+- 📫 How to reach me **hc102023@gmail.com**
 
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 **𝙷𝚎/𝙷𝚒𝚖/𝙷𝚒𝚜**
 
