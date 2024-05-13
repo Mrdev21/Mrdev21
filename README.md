@@ -1,6 +1,6 @@
 <<h1 align="center">Hello Coders!! 👋</h1>
 
-![twitter head](https://user-images.githubusercontent.com/70385488/147853861-a67c8643-ff0f-451c-943f-db4e5589e4ee.png)
+![linkedin.head](https://media.licdn.com/dms/image/D5616AQG8Y9vOb3NINw/profile-displaybackgroundimage-shrink_350_1400/0/1707070788478?e=1721260800&v=beta&t=EKYwyL-Bvw-Nu4ajda7YnblxZeHdZvIqQ9s6cRxVYAo)
 
 <h3 align="center">I'm Himanshu🙋‍♂️, a agreat passion for programming, a tech enthusiast with passion to solve problems and to make things.
 I'm a Python Enthusiast🐍. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
@@ -39,8 +39,8 @@ I'm a Python Enthusiast🐍. Apart from coding I always enjoy meeting new people
   <img align="right" height="200" width="400" alt="GIF" src="https://ansarshome.files.wordpress.com/2021/09/d3464a4351fdf340ccb6bb37c281381a.gif">
 </a>
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START
+<!--### Blogs posts
+ BLOG-POST-LIST:START
 - [MLH Global Hack Week](https://kishan-rai99693.medium.com/mlh-global-hack-week-f26735cf8ba6?source=rss-798a94539838------2)
 - [Top 5 Games That Help You To Learn Coding](https://kishan-rai99693.medium.com/top-5-games-that-help-you-to-learn-coding-f17f2b4efc61?source=rss-798a94539838------2)
 - [50 Days of Consistency](https://kishan-rai99693.medium.com/50-days-of-consistency-d3400c208fb9?source=rss-798a94539838------2)
