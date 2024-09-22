@@ -13,7 +13,6 @@ I'm a Python Enthusiast🐍. Apart from coding I always enjoy meeting new people
 </p>
 
 
-[![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=kishanrajput23&column=8&margin-w=15&margin-h=15&no-bg=true&no-frame=true&theme=juicyfresh)](https://github.com/kishanrajput23)
 
 <p align="left"> <a href="https://twitter.com/Himanshu_dev07" target="blank"><img src="https://img.shields.io/twitter/follow/Himanshu_dev07?logo=twitter&style=for-the-badge" alt="Himanshu_dev07" /></a> </p>
 
