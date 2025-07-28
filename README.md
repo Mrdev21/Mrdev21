@@ -6,11 +6,11 @@
 I'm a Python Enthusiast🐍. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
 
 
-<p align="center">
+<!--<p align="center">
   <img src="https://komarev.com/ghpvc/?username=kishanrajput23&label=Profile%20views&color=0e75b6&style=flat" alt="kishanrajput23" /> • 
   <img alt="𝙶𝚒𝚝𝙷𝚞𝚋 𝚏𝚘𝚕𝚕𝚘𝚠𝚎𝚛𝚜" src="https://img.shields.io/github/followers/kishanrajput23?label=Followers&style=social"> •   
   <img src="https://img.shields.io/github/stars/kishanrajput23?label=Stars" alt="𝚃𝚘𝚝𝚊𝚕 𝚂𝚝𝚊𝚛𝚜">
-</p>
+</p> 
 
 
 
@@ -19,6 +19,7 @@ I'm a Python Enthusiast🐍. Apart from coding I always enjoy meeting new people
 <a target="_blank">
   <img align="right" height="250" width="400" alt="GIF" src="https://i.pinimg.com/originals/68/f3/ff/68f3ff8ddc1699f6234abee4e1d58dd9.gif">
 </a>
+-->
 
 - 🔭 I’m currently working on my **Logic Building Skill**
 
