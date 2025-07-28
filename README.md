@@ -1,6 +1,6 @@
 <h1 align="center">Hello Coders!! 👋</h1>
 
-![linkedin.head](https://media.licdn.com/dms/image/D5616AQG8Y9vOb3NINw/profile-displaybackgroundimage-shrink_350_1400/0/1707070788478?e=1721260800&v=beta&t=EKYwyL-Bvw-Nu4ajda7YnblxZeHdZvIqQ9s6cRxVYAo)
+<!--![linkedin.head](https://media.licdn.com/dms/image/D5616AQG8Y9vOb3NINw/profile-displaybackgroundimage-shrink_350_1400/0/1707070788478?e=1721260800&v=beta&t=EKYwyL-Bvw-Nu4ajda7YnblxZeHdZvIqQ9s6cRxVYAo) -->
 
 <h3 align="center">I'm Himanshu🙋‍♂️, a agreat passion for programming, a tech enthusiast with passion to solve problems and to make things.
 I'm a Python Enthusiast🐍. Apart from coding I always enjoy meeting new people and hearing about their perspectives about how different things work 🤓. Please don’t hesitate to reach out if you want to share thoughts about emerging tech or anything else.</h3>
